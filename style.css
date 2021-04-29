@@ -1,0 +1,16 @@
+.Travel_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right:0px;
+    float: none;
+}
+.Travel_mainDiv img{
+    width:100%;
+}
+.Travel_mainDiv hr{
+    width: 230px;
+}
+.Travel_mainDiv h5 , .Travel_mainDiv p{
+    margin-left: 20px;
+}
